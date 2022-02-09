@@ -21,7 +21,7 @@ function yes_function(){
     runword("Thank you for being my world!");
 }
 function no_function(){
-    document.getElementById("no_button").innerHTML = "Yes";
+    document.getElementById("no_button").innerHTML = "Absolutely Yes";
     no_click();
 }
 
